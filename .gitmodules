@@ -4,9 +4,9 @@
 [submodule "arduino-bluetooth-longboard-host"]
 	path = arduino-bluetooth-longboard-host
 	url = https://github.com/Coderlane/arduino-bluetooth-longboard-host.git
-[submodule "arduino-throttle"]
-	path = arduino-throttle
-	url = https://github.com/Coderlane/arduino-throttle.git
 [submodule "arduino-bluetooth"]
 	path = arduino-bluetooth
 	url = https://github.com/Coderlane/arduino-bluetooth.git
+[submodule "arduino-longboard"]
+	path = arduino-longboard
+	url = git@github.com:Coderlane/arduino-longboard.git
