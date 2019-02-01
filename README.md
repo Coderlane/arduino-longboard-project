@@ -24,8 +24,6 @@ The controller was 3D printed based on the model of a pistol grip. The inside pr
 
 [![Controller](https://i.imgur.com/as3DUbp.jpg)](https://imgur.com/as3DUbp)
 
-
-
 ### Parts
 
 Here is a basic list of the parts. The deck of the longboard didn't matter as much. However, the trucks were convinently rectangular. The motor and ESC may be overkill, but they certainly helped with power up hill.
@@ -38,3 +36,7 @@ Here is a basic list of the parts. The deck of the longboard didn't matter as mu
 | Sparkfun Fio v3                          |     2    |    $34.95 |
 | RN42-XV Bluetooth Module                 |     2    |    $24.95 |
 | 184mm Caliber BLEMS Downhill Truck       |     2    |    $27.50 |
+
+## Testing
+
+The libraries use [TravisCI](https://travis-ci.org), [PlatformIO](https://platformio.org/), and [ArduinoUnit](https://github.com/mmurdoch/arduinounit) for CI testing.
