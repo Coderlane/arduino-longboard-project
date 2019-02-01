@@ -14,5 +14,27 @@ The code is split into a few components. The main library is [arduino-longboard]
 
 ### Longboard
 
-The mounting of the electronics could use improvement. Here is what version 1 of the longboard looked like.
-[![Longboard](https://media.giphy.com/media/1ziCoJi18Odo75gbno/giphy.gif)](https://photos.app.goo.gl/a7vDzqVmQ5DmZSaQA)
+The mounting of the electronics could use some improvement. V1 included the use of zip ties and tape. V2 used plastic drawer organizers. Here is a video of the V1 mounting.
+
+[![V1 Longboard](https://media.giphy.com/media/1ziCoJi18Odo75gbno/giphy.gif)](https://photos.app.goo.gl/a7vDzqVmQ5DmZSaQA)
+
+### Controller
+
+The controller was 3D printed based on the model of a pistol grip. The inside provided plenty of space for the electronics and it was quite comfortable to grip.
+
+[![Controller](https://i.imgur.com/as3DUbp.jpg)](https://imgur.com/as3DUbp)
+
+
+
+### Parts
+
+Here is a basic list of the parts. The deck of the longboard didn't matter as much. However, the trucks were convinently rectangular. The motor and ESC may be overkill, but they certainly helped with power up hill.
+
+|                   Part                   | Quantity | Unit Cost |
+|:----------------------------------------:|:--------:|:---------:|
+| NTM Prop Drive 50-60 270KV / 2400W MOTOR |     2    |    $45.44 |
+| Turnigy Trackstar 150A Gen II ESC        |     2    |    $81.90 |
+| Multistar High Capacity 3S 5200mAh Lipo  |     2    |    $29.00 |
+| Sparkfun Fio v3                          |     2    |    $34.95 |
+| RN42-XV Bluetooth Module                 |     2    |    $24.95 |
+| 184mm Caliber BLEMS Downhill Truck       |     2    |    $27.50 |
